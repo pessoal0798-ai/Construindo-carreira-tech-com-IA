@@ -1,0 +1,102 @@
+# Resultados alcançados utilizando o prompt AGENT 2 - Planejador de Carreiras
+
+# 🗺️ Roadmap de Carreira: Arquiteto de Soluções
+
+#🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um(a) Arquiteto de Soluções:
+ * Desenho de Diagramas: Traduzir requisitos de negócio em desenhos técnicos de sistemas (plantas baixas do software).
+ * Reuniões com Stakeholders: Conversar com clientes e gestores para entender as necessidades reais do negócio.
+ * Escolha de Tecnologias: Decidir quais ferramentas, linguagens e bancos de dados são ideais para resolver um problema específico (Otimização).
+ * Alinhamento com Desenvolvedores: Orientar o time de programação sobre como seguir a estrutura desenhada.
+ * Análise de Viabilidade e Custos: Garantir que a solução técnica seja financeiramente sustentável e performática.
+
+#🧠 MAPA DE SKILLS
+
+CORE SKILLS (essenciais):
+ * Cloud Computing: Conhecimento profundo de provedores (AWS, Azure ou Google Cloud).
+ * Padrões de Arquitetura: Entender microserviços, comunicação via eventos e monolitos.
+ * Comunicação Interpessoal: Habilidade de traduzir o técnico para o executivo e vice-versa.
+
+NICE-TO-HAVE (complementares):
+ * FinOps: Gestão de custos e economia em recursos de nuvem.
+ * Segurança (DevSecOps): Princípios de segurança por design.
+
+FERRAMENTAS E TECNOLOGIAS:
+ * Diagramação: Lucidchart, Draw.io ou Miro.
+ * Nuvem: AWS (Amazon Web Services) - foco em EC2, S3, RDS e Lambda.
+ * Infraestrutura como Código: Noções básicas de Terraform ou CloudFormation.
+
+# 📅 ROADMAP DE 90 DIAS
+
+ADAPTADO PARA: 12 horas/semana
+
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
+ * Bases da Computação: Entender Redes (IP, DNS, Portas) e como a internet funciona.
+ * Papel do Arquiteto: Estudar o SDLC (Ciclo de Vida de Desenvolvimento de Software).
+SEMANA 3-4:
+ * Introdução à Cloud: Criar uma conta Free Tier na AWS e explorar o console.
+ * Computação e Armazenamento: Diferença entre servidores virtuais (EC2) e armazenamento de arquivos (S3).
+
+MÊS 2 - PRÁTICA
+SEMANA  -6:
+ * Estratégias de Dados: Estudar quando usar SQL (estruturado) vs NoSQL (flexível) para otimizar buscas.
+ * Prática de Diagramação: Criar o primeiro desenho de uma aplicação simples (web + banco de dados).
+SEMANA 7-8:
+ * Escalabilidade e Disponibilidade: Aprender como fazer um site não cair quando recebe muitos acessos.
+ * Mensageria e APIs: Como diferentes partes de um sistema conversam sem travar.
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+ * Execução do Projeto Prático: Documentar um estudo de caso de migração para a nuvem.
+ * Análise de Custos: Praticar o uso da calculadora de preços da AWS.
+SEMANA 11-12:
+ * Simulação de Entrevistas: Treinar a explicação de problemas técnicos de forma simples.
+ * LinkedIn e Networking: Otimizar o perfil focando em certificações fundamentais (como a AWS Cloud Practitioner).
+
+# 🚀 PROJETO DE PORTFÓLIO
+PROJETO: SaaS Migration Strategy
+
+O QUE FAZER:
+
+Desenvolver um plano de arquitetura para uma loja física que precisa migrar suas operações para o ambiente online (e-commerce) prevendo alta demanda.
+ENTREGÁVEIS:
+ * Diagrama da Solução: Desenho técnico mostrando a jornada dos dados.
+ * Documento de Decisão (ADR): Texto explicando por que escolheu certas tecnologias em vez de outras.
+ * Plano de Otimização: Sugestões para manter o custo baixo no início da operação.
+CRITÉRIOS DE ACEITAÇÃO:
+ * A arquitetura deve ser resiliente (se um servidor cair, o site continua no ar).
+ * As escolhas técnicas devem focar em custo-benefício.
+ * O diagrama deve seguir padrões de ícones oficiais (ex: ícones da AWS).
+DICA: Publique este projeto no GitHub com um README bem detalhado ou em um artigo no LinkedIn. Arquitetos são contratados pela forma como explicam suas decisões!
+
+# 💬 ROTEIRO DE ENTREVISTAS
+
+PERGUNTA 1: O que você considera uma boa arquitetura?
+COMO RESPONDER: Aquela que resolve o problema de negócio com o menor custo e complexidade possível, sendo fácil de manter e escalar.
+PERGUNTA 2: Como você lida com uma mudança de requisitos no meio do projeto?
+COMO RESPONDER: Analiso o impacto dessa mudança na estrutura atual, comunico os riscos e custos para os stakeholders e busco a forma mais otimizada de adaptar o desenho.
+PERGUNTA 3: Explique o conceito de Escalabilidade para um cliente não técnico.
+COMO RESPONDER: É como uma rodovia: se o tráfego aumenta, a escalabilidade permite abrir novas faixas automaticamente para o trânsito não parar.
+PERGUNTA 4: Por que você escolheu ser arquiteto em vez de desenvolvedor puro?
+COMO RESPONDER: Tenho paixão por ver o quadro geral e otimizar como as peças se encaixam para gerar valor ao negócio.
+PERGUNTA 5: Como você avalia o sucesso de uma solução proposta?
+COMO RESPONDER: Pela estabilidade do sistema, satisfação do usuário final e se os custos de nuvem estão dentro do planejado.
+
+# 🎓 TRILHA DIO RECOMENDADA
+
+TRILHA: AWS Cloud Practitioner Fundamentals
+POR QUE ESSA TRILHA:
+Como você está começando do zero, esta trilha dará o vocabulário técnico necessário e a visão geral de todos os serviços que um arquiteto usa para montar suas soluções.
+PRÓXIMOS PASSOS:
+ * Acesse dio.me
+ * Busque por AWS Cloud Practitioner
+ * Inscreva-se gratuitamente
+ * Siga o cronograma junto com este roadmap
+
+# ✨ Seu plano está pronto!
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+
+
+Link do Prompt original: https://github.com/digitalinnovationone/copilot-prompts/blob/271f97ffbcbac9e3cb9778732934c881cbc73b14/AGENT%202%20-%20Planejador%20de%20Carreiras
