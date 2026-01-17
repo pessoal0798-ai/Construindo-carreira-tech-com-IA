@@ -17,11 +17,11 @@
 # 📋 Ficha de Transferência (Handoff para Agent 2)
 
 
-## Carreira Escolhida: Arquiteto de Soluções
-## Tempo de Estudo: 12 horas por semana
-## Experiência Atual: Do zero (Iniciante)
-## Objetivo Principal: Primeiro emprego
-## Perfil de Trabalho: Foco em Pessoas
-## Interesses Técnicos: Infraestrutura e Otimização de Problemas
+* Carreira Escolhida: Arquiteto de Soluções
+* Tempo de Estudo: 12 horas por semana
+* Experiência Atual: Do zero (Iniciante)
+* Objetivo Principal: Primeiro emprego
+* Perfil de Trabalho: Foco em Pessoas
+* Interesses Técnicos: Infraestrutura e Otimização de Problemas
 
 Link do Prompt original: https://github.com/digitalinnovationone/copilot-prompts/blob/271f97ffbcbac9e3cb9778732934c881cbc73b14/AGENT%201%20-%20Entrevistador%20de%20Carreira%20em%20Tecnologia
